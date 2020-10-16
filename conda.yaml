@@ -1,0 +1,13 @@
+channels:
+  - defaults
+  - conda-forge
+dependencies:
+  - python=3.7.7
+  - pip=20.1
+  - qpdf=8.2.1
+  - ghostscript
+  - tesseract=4.0.0
+  - img2pdf
+  - pip:
+    - rpaframework==5.3.2
+    - ocrmypdf

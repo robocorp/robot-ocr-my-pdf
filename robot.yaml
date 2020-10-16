@@ -1,0 +1,14 @@
+tasks:
+  Demo:
+    task: Demo
+  Convert PDFs from Work Item:
+    task: Convert PDFs from Work Item
+
+condaConfigFile: conda.yaml
+artifactsDir: output
+PATH:
+  - .
+PYTHONPATH:
+  - .
+ignoreFiles:
+    - .gitignore
