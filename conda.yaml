@@ -9,5 +9,5 @@ dependencies:
   - tesseract=4.0.0
   - img2pdf
   - pip:
-    - rpaframework==5.3.2
+    - rpaframework==5.3.3
     - ocrmypdf
