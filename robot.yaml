@@ -1,8 +1,8 @@
 tasks:
   Demo:
-    task: Demo
+    robotTaskName: Demo
   Convert PDFs from Work Item:
-    task: Convert PDFs from Work Item
+    robotTaskName: Convert PDFs from Work Item
 
 condaConfigFile: conda.yaml
 artifactsDir: output
